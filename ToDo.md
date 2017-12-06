@@ -12,4 +12,4 @@
 - Find proper drawer hardware for cabinets
 - Make boxes for drawers from leftover panel material
 
-## Before Summer Road-Trip
+## Before Summer Road Trip
