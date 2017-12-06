@@ -1,6 +1,6 @@
 ## Before Canada Trip
 
-#### - Brackets for mounting 80/20 for bed
+- Brackets for mounting 80/20 for bed
 - Fabric and supplies for making panels
 - Trace out and cut panels
 - Create diagram for heater installation
