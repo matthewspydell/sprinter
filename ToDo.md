@@ -1,4 +1,5 @@
-To Do
+## Before Canada Trip
+
 - Brackets for mounting 80/20 for bed
 - Fabric and supplies for making panels
 - Trace out and cut panels
@@ -10,4 +11,5 @@ To Do
 - Fix floor shims so floor can be tightened down
 - Find proper drawer hardware for cabinets
 - Make boxes for drawers from leftover panel material
-- 
+
+## Before Summer Road-Trip
