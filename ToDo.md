@@ -15,8 +15,8 @@
 - [x] Finish tracing panels
 - [x] Brackets for mounting 80/20 for bed
 - [x] Finish cutting panels
-- [ ] Create diagram for heater installation
-- [ ] Install heater
+- [x] Create diagram for heater installation
+- [x] Install heater
 - [ ] Figure out battery bank and power supply layout (need professional advice)
 - [ ] Fix floor shims so floor can be tightened down
 - [ ] Fabric
@@ -24,7 +24,7 @@
 - [ ] Modify 80/20 feet
 - [x] Determine ski storage
 - [x] Cut out bed frame
-- [ ] Make mattress
+- [x] Make mattress
 - [ ] Modify 80/20 as needed
 - [ ] Install 80/20 to L-track
 - [ ] Install L-track on floor
