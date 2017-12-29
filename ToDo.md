@@ -17,21 +17,33 @@
 - [x] Finish cutting panels
 - [x] Create diagram for heater installation
 - [x] Install heater
-- [ ] Figure out battery bank and power supply layout (need professional advice)
-- [ ] Fix floor shims so floor can be tightened down
-- [ ] Fabric
 - [ ] Reflectix covers
-- [ ] Modify 80/20 feet
 - [x] Determine ski storage
 - [x] Cut out bed frame
 - [x] Make mattress
-- [ ] Modify 80/20 as needed
-- [ ] Install 80/20 to L-track
-- [ ] Install L-track on floor
+- [x] Install bed 80/20 to L-track
+- [ ] Carbon monoxide alarm
 
 
 ## Before Summer Road Trip
 
+- [ ] Modify 80/20 feet
+- [ ] Get fabric and upholster wall panels
+- [ ] Figure out battery bank and power supply layout (need professional advice)
+- [ ] Outline wiring locations in the van
+- [ ] Calculate typical and max electrical loads
+- [ ] Fuse box for electrical
+- [ ] Sine wave generator
+- [ ] Battery monitor
+- [ ] Charger for grid to battery bank
+- [ ] Trim around floor
+- [ ] Fix floor shims so floor can be tightened down
+- [ ] Install L-track on floor
+- [ ] Install 80/20 frames
+- [ ] Figure out how to attach plywood to 80/20
+- [ ] More 80/20 (or something else) for garage seperation and bed support
+- [ ] Find sink and foot powered faucet for water
+- [ ] Carabiners
 - [ ] Install fridge
 - [ ] Find proper drawer hardware for cabinets
 - [ ] Make boxes for drawers from leftover panel material
