@@ -27,9 +27,10 @@
 
 ## Before Summer Road Trip
 
-- [ ] Modify 80/20 feet
+- [x] Get long tap to install 80/20 feet
 - [ ] Get fabric and upholster wall panels
 - [ ] Figure out battery bank and power supply layout (need professional advice)
+- [ ] Alternator to battery bank charger
 - [ ] Outline wiring locations in the van
 - [ ] Calculate typical and max electrical loads
 - [ ] Fuse box for electrical
@@ -41,7 +42,7 @@
 - [ ] Install L-track on floor
 - [ ] Install 80/20 frames
 - [ ] Figure out how to attach plywood to 80/20
-- [ ] More 80/20 (or something else) for garage seperation and bed support
+- [ ] More 80/20 (or something else) for garage separation and bed support
 - [ ] Find sink and foot powered faucet for water
 - [ ] Carabiners
 - [ ] Install fridge
