@@ -17,12 +17,12 @@
 - [x] Finish cutting panels
 - [x] Create diagram for heater installation
 - [x] Install heater
-- [ ] Reflectix covers
+- [x] Reflectix covers
 - [x] Determine ski storage
 - [x] Cut out bed frame
 - [x] Make mattress
 - [x] Install bed 80/20 to L-track
-- [ ] Carbon monoxide alarm
+- [x] Carbon monoxide alarm
 
 
 ## Before Summer Road Trip
